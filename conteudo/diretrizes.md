@@ -19,6 +19,14 @@ O treino físico é a base do perfil. O treinamento mental aparece *junto*, nunc
 
 Se um post só tiver um lado, pergunte: *onde entra o outro?*
 
+## Estrutura de cada post: corpo + mente + referência
+
+1. **O treino/prova:** a imagem ou situação real.
+2. **O que acontece com o corpo:** fisiologia, técnica, carga, recuperação.
+3. **O que acontece com a mente/cérebro:** neurociência, emoção, atenção.
+4. **A ferramenta:** o que o seguidor pode fazer na prática.
+5. **Referência:** artigo científico ou livro que sustenta a explicação. Pode ir na legenda, no último story ou num story "fonte". Se não houver estudo sólido, não afirmar como ciência: apresentar como experiência de treinadora.
+
 ## Pilares (para planejar o mês, ex.: dezembro)
 
 1. **Bastidores do meu treino:** vídeos de treino e prova + o que estava passando na cabeça.

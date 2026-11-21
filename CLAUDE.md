@@ -8,7 +8,7 @@ Está escrevendo um livro sobre preparação mental para triathlon de longa dist
 ## Regras para qualquer conteúdo de postagem
 
 1. **Sempre aliar treino físico + treino mental.** O perfil não pode falar só de treinamento mental. Ela é treinadora de triathlon; o mental entra junto com o treino, a prova, a técnica.
-2. Explicações de neurociência devem ser corretas e defensáveis (ex.: dopamina = antecipação/motivação, não só "prazer"). Citar a fonte quando houver estudo.
+2. Todo post explica **o que acontece com o corpo e com a mente**, sempre que possível com **referência científica** (artigo, autor, ano). Explicações devem ser corretas e defensáveis (ex.: dopamina = antecipação/motivação, não só "prazer"). Nunca inventar referência; sem estudo sólido, apresentar como experiência de treinadora.
 3. "Força não é teimosia": nunca passar a ideia de ignorar a dor ou sinais de alerta.
 4. Fio condutor: **"dá pra ser leve e forte"**. Evitar discurso de cobrança, compensação ou culpa.
 
